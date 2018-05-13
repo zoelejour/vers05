@@ -411,7 +411,7 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #header1-k .mbr-section-title {
   font-size: 14px;
