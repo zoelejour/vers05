@@ -1,2 +1,0 @@
-# finaal
-GitHub Pages
