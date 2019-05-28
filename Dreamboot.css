@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil');
+h1,h2,h3,h4,h5,h6{font-family: 'Allerta Stencil', sans-serif;}
+
+.subnav{font-size:0.8rem;}
+/* Volgende regel gaat een font importeren vanuit Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+/* Volgende regel gaat de geïmporteerde fiont toewijzen aan elke paragraaf */
+p{font-family: 'Open Sans', sans-serif;}
+/* volgende regel gaat de achtergrondkleur bepalen van de klasse genaamd "tweedesectie" */
+#tweedesectie{padding: 50px;}
+/* volgende rgeel gaat de klasse "container-fluid" beschrijven*/
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.navigatie{font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+#bodycontainer{padding-top:20px;}
+.titel{margin-top:1rem;margin-bottom:20px;}
+
+.navigatie{margin-top20px;}
+.navigatie ul li{list-style-type: none;}
+.navigatie ul li{color:darkgrey}
+
+.footer{postion:bottom; }
+.navigatiekolom{}
+.contentkolom{}
+.contentkolom p{margin:1rem;}
